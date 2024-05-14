@@ -45,7 +45,7 @@ prompt.
 
 ## Customization
 
-If you want to customize the emoji theme, you can modify the `emoji/theme.zsh-theme` file directly. You can
+If you want to customize the emoji theme, you can modify the `emoji.zsh-theme/theme.zsh-theme` file directly. You can
 change the emoji icons or adjust the prompt layout according to your preferences.
 
 ## Uninstallation
@@ -60,7 +60,7 @@ To uninstall the emoji theme, follow these steps:
 cd ~/.oh-my-zsh/themes
 ```
 
-3. Remove the emoji.zsh-theme file:
+3. Remove the emoji.zsh-theme folder:
 
 ```shell
 rm -rf emoji.zsh-theme
